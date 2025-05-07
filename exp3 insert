@@ -1,0 +1,20 @@
+
+SQL> INSERT INTO Employee VALUES ( 1 , 'Abi', 19, 30000);
+
+1 row created.
+
+SQL> INSERT INTO Employee VALUES ( 2 , 'Max', 26, 35000);
+
+1 row created.
+
+SQL> INSERT INTO Employee VALUES ( 3 , 'Charles', 27, 38000);
+
+1 row created.
+
+SQL> INSERT INTO Employee VALUES ( 4 , 'Carlos', 29, 28000);
+
+1 row created.
+
+SQL> INSERT INTO Employee VALUES ( 5 , 'Lewis', 40, 60000);
+
+1 row created.
